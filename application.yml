@@ -6,4 +6,6 @@ eureka:
 ---
 spring:
   profiles: noun
-
+---
+spring:
+  profiles: sentence
