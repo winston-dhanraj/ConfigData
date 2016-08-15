@@ -3,5 +3,10 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
+      
+---
+spring:
+  profiles: noun
+words: boat,book,vote,seat,backpack,partition,groundhog
 
 
